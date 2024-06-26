@@ -1,0 +1,6 @@
+body{
+	position: relative;
+}
+#section1,#section2,#section3{
+	padding: 100px 20px;
+}
